@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/chaojiying" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_list/Dianping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_list/dazhong" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_list/dianpingshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_list/taobao_crawled" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github_list/taobao_spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github优秀代码/Dianping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github优秀代码/Douyin-Bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github优秀代码/dianpingshop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github优秀代码/taobao_crawled" vcs="Git" />
+  </component>
+</project>

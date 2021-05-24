@@ -1,0 +1,4 @@
+requests>=1.2.0
+
+[:python_version < "3.2"]
+futures>=2.1.3

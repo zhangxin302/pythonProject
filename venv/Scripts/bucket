@@ -1,0 +1,10 @@
+#!d:\pythonproject\venv\scripts\python.exe
+# -*- coding:utf-8; tab-width:4; mode:python -*-
+
+import sys
+sys.path.append('.')
+
+from libbucket import cli
+
+cli.parse_args()
+cli.run()

@@ -1,0 +1,7 @@
+mitmproxy
+
+[:python_version == "3.6"]
+dataclasses>=0.7
+
+[:sys_platform == "win32"]
+pydivert<2.2,>=2.0.3

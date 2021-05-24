@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: gitapi
+Version: 1.0.1
+Summary: Python API to Git using the command-line interface
+Home-page: https://bitbucket.org/haard/gitapi
+Author: Fredrik Håård
+Author-email: fredrik@metallapan.se
+License: Do whatever you want, don't blame me
+Description: 
+        gitapi is a pure-Python API to Git, that uses the command-line
+        interface. This is a fork of https://bitbucket.org/haard/ with the
+        intention of making a unified API for a subset of git and hg
+        functionality possible
+Keywords: git api
+Platform: UNKNOWN
