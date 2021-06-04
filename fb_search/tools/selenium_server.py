@@ -9,9 +9,9 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.wait import WebDriverWait
 
 sys.path.append(os.path.dirname(__file__))
-from tools.extract_time import handle_pub_time
-from tools.utils import check_pub_time
-from tools.logger_server import logger
+from fb_search.tools.extract_time import handle_pub_time
+from fb_search.tools.utils import check_pub_time
+from fb_search.tools.logger_server import logger
 
 
 class SeleniumServer:
@@ -30,7 +30,7 @@ class SeleniumServer:
         chrome_options = Options()
         # chrome_options.add_argument(r'--proxy-server=http://127.0.0.1:8888')
         chrome_options.add_experimental_option('excludeSwitches', ['enable-automation'])
-        chrome_options.add_argument(r'--user-data-dir=E:\Projects\+639957919351')  # 配置文件1
+        chrome_options.add_argument(r'--user-data-dir=E:\Projects\+Jonathen Charm')  # 配置文件1
         chrome_options.add_argument('User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36')
         # with open(driver_js_path) as f: js = f.read()
 
